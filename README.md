@@ -11,7 +11,7 @@
 * [Informacje ogóle](#informacje-ogólne)
 * [Użyteczność](#użyteczność)
 * [Status projektu](#status-projektu)
-* [Do zrobienia](#do-zrobienia)
+* [Kontakt](#kontakt)
 
 
 ## Informacje ogóle
