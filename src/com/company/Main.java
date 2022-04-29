@@ -9,6 +9,7 @@ public class Main {
         Kwadrat kwadrat = new Kwadrat(10);
         System.out.println(kwadrat.obliczPowierzchnie());
         System.out.println(kwadrat.obliczObwod());
+        System.out.println("Cool");
     }
 }
 
