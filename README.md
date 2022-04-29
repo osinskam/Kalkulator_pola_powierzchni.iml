@@ -4,10 +4,10 @@
 -cv, nowe repozytorium ktore sie nazywa tak jako login osinskam, ma byc publiczne, tworzymy
 -4 repozytoria z dokumentacją
 
-#Kalkulator obwodu i powierzchni
+# Kalkulator obwodu i powierzchni
 > Projekt jest częścią kalkulatora. Ma na celu ułatwianie wykonywania obliczeń matematycznych takich jak liczenie powierzchni i pola koła oraz kwadrata.
 
-## Table of Contents
+## Spis treści
 * [Informacje ogóle](#informacje-ogólne)
 * [Użyteczność](#użyteczność)
 * [Status projektu](#status-projektu)
