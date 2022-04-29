@@ -35,7 +35,7 @@
 
 
 Miejsca do usprawnienia
-- Można dodać więcej rodzajó figur
+- Można dodać więcej rodzajów figur
 - Można dodać więcej działań matematycznych
 
 Do zrobienia
