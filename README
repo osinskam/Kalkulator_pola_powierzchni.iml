@@ -8,35 +8,16 @@
 > Projekt jest częścią kalkulatora. Ma na celu ułatwianie wykonywania obliczeń matematycznych takich jak liczenie powierzchni i pola koła oraz kwadrata.
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+* [Informacje ogóle](#informacje-ogolne)
+* [Użyteczność](#użyteczność)
+* [Status projektu](#status-projektu)
+* [Miejsca do usprawnienia](#miejsca-do-usprawnienia)
+* [Do zrobienia](#do-zrobienia)
 
 
-## General Information
+## Informacje ogóle
 #### Przeprowadzanie bardziej skomplikowanych obliczeń zawiera dużo czasu. Dlatego też powstał kalkulator pola oraz powierzchni, który rozwiązuje ten problem.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
 
 
 ## Screenshots
@@ -44,39 +25,23 @@ List the ready features here:
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Usage
+## Użyteczność
 #### Projekt może zostać wykorzystany w instytucjach edukacyjnych oraz przez indywidualnych użytkowników
 
 
 
-## Project Status
-#### Project is: _in progress_ 
+## Status projektu
+#### Projekt jest: _w toku_ 
 
 
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Miejsca do usprawnienia:
+Miejsca do usprawnienia
 - Można dodać więcej rodzajó figur
 - Można dodać więcej działań matematycznych
 
-Do zrobienia:
+Do zrobienia
 - Dodać opcję oblcizania kątów w trójkącie
 
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
 ## Kontakt
-Stworzone przez @osinskam - feel free to contact me!
+Stworzone przez @osinskam - jestem otwarta na kontakt!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
