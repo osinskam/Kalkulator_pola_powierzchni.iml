@@ -8,10 +8,9 @@
 > Projekt jest częścią kalkulatora. Ma na celu ułatwianie wykonywania obliczeń matematycznych takich jak liczenie powierzchni i pola koła oraz kwadrata.
 
 ## Table of Contents
-* [Informacje ogóle](#informacje-ogolne)
+* [Informacje ogóle](#informacje-ogólne)
 * [Użyteczność](#użyteczność)
 * [Status projektu](#status-projektu)
-* [Miejsca do usprawnienia](#miejsca-do-usprawnienia)
 * [Do zrobienia](#do-zrobienia)
 
 
